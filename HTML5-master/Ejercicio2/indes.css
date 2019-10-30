@@ -1,0 +1,30 @@
+
+
+fieldset {
+    background: aquamarine;
+}
+input{
+    color: black;
+}
+
+
+legend{
+    font-family: 'Staatliches', cursive;
+}
+
+input{ font-family: 'Liu Jian Mao Cao', cursive;
+}
+
+textarea {
+    font-family: 'Saira Condensed', sans-serif;
+
+}
+
+div {
+    font-family: 'Staatliches';
+}
+
+type radio {
+
+    font-family: 'Saira Condensed', sans-serif;
+}

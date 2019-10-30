@@ -1,0 +1,36 @@
+h1{
+color:green;
+
+}
+
+.destacado{ color: orange;}
+
+#subtitulo { color: blue;}
+
+div p a { color: green;}
+
+p a {color: red;}
+
+p a em { color: blue;}
+
+caption { color: blue;}
+
+thead { color: orange}
+
+tfoot { color:red;}
+
+td {color:green; }
+
+td strong { color:orange;}
+
+.especial { color:orange;}
+
+tbody th { color:red;}
+
+p #especial { color :violet;}
+
+p strong { color:red}
+
+table, th, td  { border: 2px solid black;
+border-collapse:collapse; }
+
